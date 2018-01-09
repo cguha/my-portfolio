@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo Nothing to build
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - Chandradip_Guha_CV_JohnLewis.pdf
+    - styles/*
+    - images/*
