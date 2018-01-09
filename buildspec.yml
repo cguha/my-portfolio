@@ -4,10 +4,11 @@ phases:
   build:
     commands:
       - echo Nothing to build
+
 artifacts:
   files:
     - index.html
     - favicon.ico
     - Chandradip_Guha_CV_JohnLewis.pdf
-    - styles/*
+    - styles/main.css
     - images/*
